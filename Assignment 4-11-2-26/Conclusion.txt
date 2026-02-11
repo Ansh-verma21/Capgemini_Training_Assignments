@@ -1,0 +1,3 @@
+CONCLUSION (ACTIVITY 1)
+
+Stack is an important linear data structure that follows the LIFO principle. It allows insertion and deletion only from one end. Stack operations like push, pop, and peek are efficient and take constant time. Stacks are widely used in real-life applications such as expression evaluation and function calls. Understanding stacks helps in solving complex problems easily.
