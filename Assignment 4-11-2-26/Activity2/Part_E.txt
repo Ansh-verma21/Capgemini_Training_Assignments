@@ -1,0 +1,4 @@
+Push operation takes O(1) time.
+Pop operation takes O(1) time.
+Peek operation takes O(1) time.
+Balanced parentheses checking takes O(n) time where n is the length of the expression.
