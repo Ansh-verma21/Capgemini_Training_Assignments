@@ -44,6 +44,15 @@ updated main
 
 <img width="470" height="544" alt="image" src="https://github.com/user-attachments/assets/39b202f8-d410-44ba-a7ad-42ffcf19645d" />
 
+//Comparator for comparing
+
+<img width="635" height="620" alt="image" src="https://github.com/user-attachments/assets/429127f6-6f7f-4ca5-8362-b4cb80df5575" />
+
+//extractor
+
+<img width="611" height="558" alt="image" src="https://github.com/user-attachments/assets/751a0334-e282-4782-952f-e22a8f1d81aa" />
+
+
 
 
 
