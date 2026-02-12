@@ -52,6 +52,19 @@ updated main
 
 <img width="611" height="558" alt="image" src="https://github.com/user-attachments/assets/751a0334-e282-4782-952f-e22a8f1d81aa" />
 
+//hashtable
+
+<img width="521" height="584" alt="image" src="https://github.com/user-attachments/assets/6590bf68-b263-4add-8e97-ce107a68b937" />
+
+<img width="709" height="558" alt="image" src="https://github.com/user-attachments/assets/19f9a774-3b6f-450e-ad71-84a80924dc84" />
+
+<img width="578" height="398" alt="image" src="https://github.com/user-attachments/assets/4181a7ff-778d-4cb4-8f4e-fc80a3c0d654" />
+
+
+
+
+
+
 
 
 
